@@ -53,7 +53,6 @@ Setup & Usage
     Open the Website:
     Open index.html in your preferred browser or serve it locally.
 
-Main content area with 8 generated articles and the sidebar with settings and latest headlines.
 Customization
 
     Modify the number of articles generated per reload by changing the constant in the JS.
