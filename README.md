@@ -65,7 +65,6 @@ Customization
 
 Disclaimer
 
-This site is for educational and entertainment purposes only. The news generated is entirely fictional and not intended to mislead.
-License
+    This site is for educational and entertainment purposes only. The news generated is entirely fictional and not intended to mislead.
 
 MIT License © [Spruceleaf-web]
